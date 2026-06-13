@@ -1,0 +1,20 @@
+# STM32CubeIDE build folders
+Debug/
+Release/
+
+# Eclipse settings
+.settings/
+.metadata/
+
+# Launch files
+*.launch
+
+# Object files
+*.o
+*.d
+
+# Binary files
+*.elf
+*.hex
+*.bin
+*.map
