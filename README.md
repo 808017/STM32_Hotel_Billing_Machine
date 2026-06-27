@@ -4,7 +4,7 @@ An embedded hotel billing machine developed using the STM32F446RE microcontrolle
 
 ## Features
 
-* Menu-driven billing system
+* Menu-driven billing system.
 * 4×4 matrix keypad interface
 * 16×2 LCD display (8-bit mode)
 * Real-Time Clock (RTC)
